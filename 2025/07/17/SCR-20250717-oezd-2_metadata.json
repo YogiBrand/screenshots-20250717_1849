@@ -1,0 +1,16 @@
+{
+  "name": "Ultra Search Feature Overview",
+  "description": "The screenshot displays a feature introduction for 'Ultra Search', emphasizing its capabilities as a web search agent and its reliance on Perplexity Deep Research. It also highlights user interaction with Vectal as a method to enhance Ultra Search’s performance.",
+  "website": null,
+  "tags": "Ultra Search, Web Search, Perplexity, Vectal, Deep Research",
+  "date": "2025-07-17T18:49:10.831842",
+  "category": "web",
+  "confidence": 0.9,
+  "detected_text": "Ultra Search\nExamining primary sources...\n• Ultra Search is a very powerful Web Search agent\n• It's built on top of Perplexity Deep Research\n• The more you use Vectal, the better Ultra Search gets",
+  "ui_elements": [
+    "text",
+    "bulleted list",
+    "progress bar",
+    "circular graphics"
+  ]
+}
