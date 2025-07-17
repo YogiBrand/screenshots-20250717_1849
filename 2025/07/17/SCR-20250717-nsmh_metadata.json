@@ -1,0 +1,17 @@
+{
+  "name": "AI Model Selection Interface",
+  "description": "This screenshot shows a section of a web application where various AI models can be selected. It includes a list of available models, with some requiring an upgrade to a pro plan for access. The interface includes options like GPT 4.5, o3 pro, Claude 4 Opus, among others, categorized under Ultra and Pro Models.",
+  "website": "http://vectal.ai",
+  "tags": "AI, models, selection, upgrade, technology, web",
+  "date": "2025-07-17T18:49:28.219387",
+  "category": "web",
+  "confidence": 0.9,
+  "detected_text": "AI Models, Current plan: Free, Ultra Models, GPT 4.5, o3 pro, Claude 4 Opus, Claude 4 Opus Thinking, Requires Ultra, Select Model, UPGRADE TO PRO to unlock premium models, Claude 4 Sonnet, Creative and capable, Claude 4 Sonnet Thinking, Very creative reasoning model, Grok 4, Fair and unbiased, GPT 4.1, Great for most tasks, > more models, Save",
+  "ui_elements": [
+    "checkbox",
+    "button",
+    "text link",
+    "dropdown",
+    "modal"
+  ]
+}
